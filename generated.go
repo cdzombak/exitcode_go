@@ -199,4 +199,5 @@ const (
 
 	// BPF - Failed to apply BPF restrictions. (from systemd)
 	BPF = 245
+
 )
